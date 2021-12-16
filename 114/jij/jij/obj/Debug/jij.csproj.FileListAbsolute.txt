@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\114\jij\jij\bin\Debug\jij.exe.config
+C:\Users\Administrator\Desktop\114\jij\jij\bin\Debug\jij.exe
+C:\Users\Administrator\Desktop\114\jij\jij\bin\Debug\jij.pdb
+C:\Users\Administrator\Desktop\114\jij\jij\obj\Debug\jij.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\114\jij\jij\obj\Debug\jij.exe
+C:\Users\Administrator\Desktop\114\jij\jij\obj\Debug\jij.pdb

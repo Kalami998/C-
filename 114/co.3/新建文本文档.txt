@@ -1,0 +1,53 @@
+          ////-------------根据输入的行数打印星号组成的三角形------------
+            //Console.WriteLine("请输入需要输出的行数，按回车开始：");
+            //int rows = Convert.ToInt32(Console.ReadLine());
+
+            //for (int i = 1; i <= rows; i++)//获取循环打印行数
+            //{
+            //    for (int j = 1; j <= rows - i; j++)//打印星号前面的空白
+            //    {
+            //        Console.Write(" ");
+
+            //    }
+
+            //    for (int k = 1; k <= 2 * i - 1; k++)//循环打印星号
+            //    {
+
+            //        Console.Write("*");
+            //    }
+
+            //    Console.Write("\n");
+            //}
+
+
+
+
+                //           //--------------------打印正方形---------
+
+
+
+
+          //  Console.WriteLine("输入正方形的行号");
+                //  int hang = Convert.ToInt32( Console.ReadLine());
+
+                ////  Console.WriteLine(hang);
+                //  //string[,] arr=new string[hang,hang];
+                //  for (int i = 0; i < hang; i++)
+                //  {
+
+                //      for (int j = 0; j < hang; j++)
+
+                //      {
+                //          Console.Write("* ");
+                //      }
+                //      Console.WriteLine();
+
+
+
+                //  }
+
+
+
+
+
+

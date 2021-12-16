@@ -1,0 +1,6 @@
+C:\Users\46725\Desktop\dai\c#_wrok\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\46725\Desktop\dai\c#_wrok\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\46725\Desktop\dai\c#_wrok\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\46725\Desktop\dai\c#_wrok\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\46725\Desktop\dai\c#_wrok\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\46725\Desktop\dai\c#_wrok\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

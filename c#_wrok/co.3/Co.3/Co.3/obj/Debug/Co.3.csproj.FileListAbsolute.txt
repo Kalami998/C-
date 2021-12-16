@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\114\Co.3\Co.3\bin\Debug\Co.3.exe.config
+C:\Users\Administrator\Desktop\114\Co.3\Co.3\bin\Debug\Co.3.exe
+C:\Users\Administrator\Desktop\114\Co.3\Co.3\bin\Debug\Co.3.pdb
+C:\Users\Administrator\Desktop\114\Co.3\Co.3\obj\Debug\Co.3.exe
+C:\Users\Administrator\Desktop\114\Co.3\Co.3\obj\Debug\Co.3.pdb
+C:\Users\Administrator\Desktop\114\Co.3\Co.3\obj\Debug\Co.3.csprojResolveAssemblyReference.cache

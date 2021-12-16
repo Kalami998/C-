@@ -1,0 +1,8 @@
+d:\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+d:\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+d:\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+d:\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+d:\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\46725\Desktop\dai\c#_wrok\乘除法.001\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\46725\Desktop\dai\c#_wrok\乘除法.001\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\46725\Desktop\dai\c#_wrok\乘除法.001\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

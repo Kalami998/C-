@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\114\Co.4\Co.4\bin\Debug\Co.4.exe.config
+C:\Users\Administrator\Desktop\114\Co.4\Co.4\bin\Debug\Co.4.exe
+C:\Users\Administrator\Desktop\114\Co.4\Co.4\bin\Debug\Co.4.pdb
+C:\Users\Administrator\Desktop\114\Co.4\Co.4\obj\Debug\Co.4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\114\Co.4\Co.4\obj\Debug\Co.4.exe
+C:\Users\Administrator\Desktop\114\Co.4\Co.4\obj\Debug\Co.4.pdb

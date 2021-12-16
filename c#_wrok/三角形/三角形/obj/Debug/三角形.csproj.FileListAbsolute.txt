@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\114\三角形\三角形\bin\Debug\三角形.exe.config
+C:\Users\Administrator\Desktop\114\三角形\三角形\bin\Debug\三角形.exe
+C:\Users\Administrator\Desktop\114\三角形\三角形\bin\Debug\三角形.pdb
+C:\Users\Administrator\Desktop\114\三角形\三角形\obj\Debug\三角形.exe
+C:\Users\Administrator\Desktop\114\三角形\三角形\obj\Debug\三角形.pdb
